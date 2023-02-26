@@ -39,4 +39,4 @@ To get a local copy up and running follow these simple steps.
 ```
   yarn install
 ```
-3. In the terminal, run `npm run start` and go to http://localhost:3000 to access the application
+3. In the terminal, run `yarn run start` and go to http://localhost:3000 to access the application
