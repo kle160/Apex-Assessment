@@ -3,7 +3,7 @@
 A simple Pokemon App that allows you to search for any pokemon and add it to your captured list. Data was gathered from https://pokeapi.co/.
 
 ## Preview
-
+![Screenshot of the Pokemon app](public/Screenshot%202023-02-26%20at%206.17.49%20AM.png)
 
 ## Acceptance Criteria 
 
