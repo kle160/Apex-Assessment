@@ -1,0 +1,9 @@
+/* Capture Button CSS */
+
+.btn-capture {
+  width: 100%;
+  border-width: 5px;
+  border-color: var(--chakra-colors-red-900);
+  font-size: 1xl;
+  size: lg;
+}
