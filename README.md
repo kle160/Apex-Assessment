@@ -1,4 +1,4 @@
-# Apex Pokedex Assignment
+# Pokedex
 
 A simple Pokemon App that allows you to search for any pokemon and add it to your captured list. Data was gathered from https://pokeapi.co/.
 
